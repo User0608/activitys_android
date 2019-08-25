@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">activitys</string>
+    <string name="titulo">Binvenido</string>
+
+
+    <string name="text_buton_siguiente">Siguiente</string>
+</resources>
