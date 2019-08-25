@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/adriana/.gradle/caches/transforms-2/files-2.1/02192e1a095581e90b900b0b07541131/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/adriana/.gradle/caches/transforms-2/files-2.1/3e0a98f50ecb262b76045816fcf51b79/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/9bd4672a3cba4c005e8118de5aa183c0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/effe5077f82aa7cd8245b5c0a71c8220/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/4423f0465e757cbefcd2554a40567af9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/634b3b3f2949735bb761c9163e59ac9c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/adriana/.gradle/caches/transforms-2/files-2.1/6bda775049409491d2b3a7879a5eb9fe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/c6acf2a69d8eaf4dbe360195af8fafeb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/26ad5877fd733e3005e44e762c80a123/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/23c11133b8c0f528aa5aefed06b7fd27/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/aede28ef2d154eccf756a5b1ab49f108/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/a4ddc73a6d8e890f5ae740152a6a31de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/e85425f86929337cfee8bc88fcbaa89c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/8a39a26963e4a9a5777a96421d226678/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/e7fa26c2a83f6f4691f7f6b08f7f484d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/adriana/.gradle/caches/transforms-2/files-2.1/51ad5d6d12e022f026d6bf5ab704e330/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/2c84f745574c4f801fdd760ee085cc4f/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/f300a7fb9feea238c6f43ab6ee510b31/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/f4cddfa5e0c1750b8cf3746fe4712d1d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/231878eb32c1a4c263ab0767a4a9e6d0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/0b467e475df282ac96b541ba478e797a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/813fc9a2be3b0fe485ac60596fd1ec49/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/7e07cef93bca9c39e91552b16a3c73de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/bedaa460f8b72b2df729d8c278ad5c2b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/142f61afb58a2776a3c96721c70b9aab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/9dac28ec3f10ce71c297c4b1e27d1787/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/24ad5adc701173315e34687b86aa1ddf/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:5:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/adriana/.gradle/caches/transforms-2/files-2.1/3e0a98f50ecb262b76045816fcf51b79/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/adriana/.gradle/caches/transforms-2/files-2.1/3e0a98f50ecb262b76045816fcf51b79/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /home/adriana/.gradle/caches/transforms-2/files-2.1/51ad5d6d12e022f026d6bf5ab704e330/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/adriana/.gradle/caches/transforms-2/files-2.1/51ad5d6d12e022f026d6bf5ab704e330/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/2c84f745574c4f801fdd760ee085cc4f/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/2c84f745574c4f801fdd760ee085cc4f/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/adriana/.gradle/caches/transforms-2/files-2.1/51ad5d6d12e022f026d6bf5ab704e330/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.saucedo.activitys.RedditActivity
+ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:12:9-61
+	android:name
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:12:19-49
+activity#com.saucedo.activitys.ItunesActivity
+ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:13:9-52
+	android:name
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:13:19-49
+activity#com.saucedo.activitys.WhatsappActivity
+ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:14:9-54
+	android:name
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:14:19-51
+activity#com.saucedo.activitys.AboutActivity
+ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:15:9-51
+	android:name
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:15:19-48
+activity#com.saucedo.activitys.SaludoActivity
+ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:16:9-52
+	android:name
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:16:19-49
+activity#com.saucedo.activitys.MainActivity
+ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
+INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/adriana/.gradle/caches/transforms-2/files-2.1/02192e1a095581e90b900b0b07541131/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/adriana/.gradle/caches/transforms-2/files-2.1/02192e1a095581e90b900b0b07541131/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/adriana/.gradle/caches/transforms-2/files-2.1/3e0a98f50ecb262b76045816fcf51b79/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/adriana/.gradle/caches/transforms-2/files-2.1/3e0a98f50ecb262b76045816fcf51b79/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/9bd4672a3cba4c005e8118de5aa183c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/9bd4672a3cba4c005e8118de5aa183c0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/effe5077f82aa7cd8245b5c0a71c8220/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/effe5077f82aa7cd8245b5c0a71c8220/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/4423f0465e757cbefcd2554a40567af9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/4423f0465e757cbefcd2554a40567af9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/634b3b3f2949735bb761c9163e59ac9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/634b3b3f2949735bb761c9163e59ac9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/adriana/.gradle/caches/transforms-2/files-2.1/6bda775049409491d2b3a7879a5eb9fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/adriana/.gradle/caches/transforms-2/files-2.1/6bda775049409491d2b3a7879a5eb9fe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/c6acf2a69d8eaf4dbe360195af8fafeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/c6acf2a69d8eaf4dbe360195af8fafeb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/26ad5877fd733e3005e44e762c80a123/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/26ad5877fd733e3005e44e762c80a123/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/23c11133b8c0f528aa5aefed06b7fd27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/23c11133b8c0f528aa5aefed06b7fd27/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/aede28ef2d154eccf756a5b1ab49f108/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/aede28ef2d154eccf756a5b1ab49f108/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/a4ddc73a6d8e890f5ae740152a6a31de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/a4ddc73a6d8e890f5ae740152a6a31de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/e85425f86929337cfee8bc88fcbaa89c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/e85425f86929337cfee8bc88fcbaa89c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/8a39a26963e4a9a5777a96421d226678/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/8a39a26963e4a9a5777a96421d226678/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/e7fa26c2a83f6f4691f7f6b08f7f484d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/e7fa26c2a83f6f4691f7f6b08f7f484d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/adriana/.gradle/caches/transforms-2/files-2.1/51ad5d6d12e022f026d6bf5ab704e330/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/adriana/.gradle/caches/transforms-2/files-2.1/51ad5d6d12e022f026d6bf5ab704e330/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/2c84f745574c4f801fdd760ee085cc4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/2c84f745574c4f801fdd760ee085cc4f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/f300a7fb9feea238c6f43ab6ee510b31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/f300a7fb9feea238c6f43ab6ee510b31/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/f4cddfa5e0c1750b8cf3746fe4712d1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/f4cddfa5e0c1750b8cf3746fe4712d1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/231878eb32c1a4c263ab0767a4a9e6d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/231878eb32c1a4c263ab0767a4a9e6d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/0b467e475df282ac96b541ba478e797a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/0b467e475df282ac96b541ba478e797a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/813fc9a2be3b0fe485ac60596fd1ec49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/813fc9a2be3b0fe485ac60596fd1ec49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/7e07cef93bca9c39e91552b16a3c73de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/7e07cef93bca9c39e91552b16a3c73de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/bedaa460f8b72b2df729d8c278ad5c2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/bedaa460f8b72b2df729d8c278ad5c2b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/142f61afb58a2776a3c96721c70b9aab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/142f61afb58a2776a3c96721c70b9aab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/9dac28ec3f10ce71c297c4b1e27d1787/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/9dac28ec3f10ce71c297c4b1e27d1787/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/24ad5adc701173315e34687b86aa1ddf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/adriana/.gradle/caches/transforms-2/files-2.1/24ad5adc701173315e34687b86aa1ddf/AndroidManifest.xml:20:5-44
+INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
+INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
+		ADDED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
+		INJECTED from /home/adriana/AndroidStudioProjects/activitys/app/src/main/AndroidManifest.xml
